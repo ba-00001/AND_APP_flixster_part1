@@ -37,7 +37,7 @@ The following **additional** features are implemented:
     <img src="https://github.com/ba-00001/AND_APP_flixster_part1/blob/master/AND_APP_flixster_part_1_IMAGE1.png" width="200" alt="Image 1">
     <figcaption> App 1</figcaption>
   </figure>
-  
+    </div>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
