@@ -28,17 +28,24 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+ <img src="https://github.com/ba-00001/AND_APP_flixster_part1/blob/master/AND_APP_flixster_part_1_GIF.gif"   width="275px" alt="GIF 1">
+## App Preview
 
-![Video Walkthrough](http://i.imgur.com/link/to/your/gif/file.gif)
+<!-- Single row of images with names -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/AND_APP_flixster_part1/blob/master/AND_APP_flixster_part_1_IMAGE1.png" width="200" alt="Image 1">
+    <figcaption> App 1</figcaption>
+  </figure>
+  
 
-<!-- Replace the above link with the link to your GIF walkthrough -->
 
-GIF created with [Kap](https://getkap.co/) for macOS.
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ScreenToGif portable
+<!-- Recommended tools: [Kap](https://getkap.co/) for macOS [ScreenToGif](https://www.screentogif.com/) for Windows [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+<!-- Describe any challenges encountered while building the app. -->
 
 ## License
 
